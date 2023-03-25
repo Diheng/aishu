@@ -1,7 +1,7 @@
 ---
 title: "Tags"
 layout: "tags"
-url: "/tags"
+url: "/tags/"
 summary: tags
 ---
 
