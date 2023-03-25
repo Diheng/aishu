@@ -2,6 +2,11 @@ baseURL = 'http://fallingstone.net/'
 languageCode = 'en-us'
 title = 'Fallingstone'
 theme = 'papermod'
+
+[[menu.main]]
+  name = "Tags"
+  url = 'tags/'
+
 [params]
     [params.homeInfoParams]
         Title = "Aishu's blog for everything."
@@ -10,6 +15,10 @@ theme = 'papermod'
     [[params.socialIcons]] # optional
         name = "Mastodon"
         url = "https://alive.bar/@Yvesadam"
+
+    [[params.socialIcons]] # optional
+        name = "Rss"
+        url = "index.xml"
 
     [[params.socialIcons]] # optional
         name = "Douban(Inactive)"
