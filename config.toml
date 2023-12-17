@@ -11,15 +11,13 @@ theme = 'papermod'
     [params.homeInfoParams]
         Title = "Aishu's blog for everything"
         Content = """
-       “王啊，你梦见一个高大宏伟、极其明亮的塑像站在你面前，相貌可怕， 有纯金的头、银的胸和
-       臂、铜的肚腹和大腿、 铁的小腿和半铁半泥的脚。
+“王啊，你梦见一个高大宏伟、极其明亮的塑像站在你面前，相貌可怕， 有纯金的头、银的胸和臂、铜的肚腹和大腿、 铁的小腿和半铁半泥的脚。
        在你观看的时候，有一块非人手凿出的石头打在塑像半铁半泥的脚上，砸碎了脚。
        铁、泥、铜、银、金随即粉碎，犹如夏天麦场上的糠秕，被风吹得无影无踪。但打碎这像的石头变成一座大山，
        充满整个大地。” ---- 但以理书2:31-35
         
-        This is the personal website of Aishu(艾叔). All opinions are personal.
-        All contents are original.
-        需转载请联系[本人](mailto:sakamoto.yomogi@gmail.com)。未经同意不得转载。"""
+This is the personal website of Aishu(艾叔). All opinions are personal.
+        All contents are original. 需转载请联系[本人](mailto:sakamoto.yomogi@gmail.com)。未经同意不得转载。"""
 
     [[params.socialIcons]] # optional
         name = "Mastodon"
