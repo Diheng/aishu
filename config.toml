@@ -10,16 +10,12 @@ theme = 'papermod'
 [params]
     [params.homeInfoParams]
         Title = "Aishu's blog for everything."
-        Content = "This is the personal website of Aishu(艾叔). All opinions are personal. All contents are original. 需转载请联系[本人](mailto:adam.spider.zhang@gmail.com)。未经同意不得转载。"
+        Content = "This is the personal website of Aishu(艾叔). All opinions are personal. All contents are original. 需转载请联系[本人](mailto:sakamoto.yomogi@gmail.com)。未经同意不得转载。"
 
     [[params.socialIcons]] # optional
         name = "Mastodon"
-        url = "https://alive.bar/@Yvesadam"
+        url = "https://Mastodon.online/@yvesadam"
 
     [[params.socialIcons]] # optional
         name = "Rss"
         url = "index.xml"
-
-    [[params.socialIcons]] # optional
-        name = "Douban(Inactive)"
-        url = "https://www.douban.com/people/yvesadam/"
