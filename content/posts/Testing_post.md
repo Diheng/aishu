@@ -1,7 +1,7 @@
 ---
 date: "2024-09-05T16:09:13-06:00"
 title: You are not your tool
-draft: true
+draft: false
 categories:
   - Non-fiction
 tags: ["Non-fiction"]
@@ -11,3 +11,5 @@ tags: ["Non-fiction"]
 This is a new line added from Junyu.
 
 This will be a draft for a post about my experience with arch linux
+
+This is a new line added from iPad working copy.
